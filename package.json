@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/ripardn/RIPARDBOT"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Abdul Muttaqin maap bang saya edit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/ripardn/RIPARDBOT/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "https://github.com/ripardn/RIPARDBOT#readme"
 }
