@@ -1,5 +1,5 @@
 ## ripardn BOT
-BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
+BOT WHATSAPP COPY PASTE EDIT :v
 
 
 
@@ -49,7 +49,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-watsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
 *
